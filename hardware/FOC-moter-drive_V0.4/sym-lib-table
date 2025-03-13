@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "my_library")(type "KiCad")(uri "D:/development/projects/FOC_robotic_arm_peoject/FOC-brushless-motor/hardware/FOC_motor_drive_drv8313/FOC_motor_drv8313/FOC_motor_20241112/my_library.kicad_sym")(options "")(descr ""))
+  (lib (name "my_Library")(type "KiCad")(uri "D:/development/projects/FOC_robotic_arm_peoject/FOC-brushless-motor/hardware/FOC_failture/FOC_motor_drive/my_Library.kicad_sym")(options "")(descr ""))
+)

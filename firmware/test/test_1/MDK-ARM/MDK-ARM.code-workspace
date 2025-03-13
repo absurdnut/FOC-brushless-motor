@@ -1,0 +1,13 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            "as5600.h": "c"
+        }
+    },
+    "extensions": {}
+}

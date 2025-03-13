@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "hardware")(type "KiCad")(uri "D:/development/projects/FOC_robotic_arm_peoject/FOC-brushless-motor/hardware.pretty")(options "")(descr ""))
+  (lib (name "my_Library")(type "KiCad")(uri "${KIPRJMOD}/my_Library.pretty")(options "")(descr ""))
+)

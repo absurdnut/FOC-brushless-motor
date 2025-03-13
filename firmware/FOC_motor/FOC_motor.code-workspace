@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"terminal.integrated.defaultProfile.windows": "Git Bash",
+		"files.associations": {
+			"as5600.h": "c",
+			"i2c.h": "c",
+			"limits": "c",
+			"stdint.h": "c"
+		}
+	}
+}
