@@ -68,6 +68,7 @@ void SystemClock_Config(void);
   */
 int main(void)
 {
+
   /* USER CODE BEGIN 1 */
   
   /* USER CODE END 1 */
@@ -95,14 +96,26 @@ int main(void)
   MX_TIM1_Init();
   MX_TIM8_Init();
   /* USER CODE BEGIN 2 */
-  HAL_TIM_PWM_Start(&htim1, TIM_CHANNEL_1|TIM_CHANNEL_2|TIM_CHANNEL_3);
+  // HAL_TIM_PWM_Start(&htim1, TIM_CHANNEL_1|TIM_CHANNEL_2|TIM_CHANNEL_3);
+  // HAL_TIMEx_PWMN_Start(&htim1, TIM_CHANNEL_1|TIM_CHANNEL_2|TIM_CHANNEL_3);
   /* USER CODE END 2 */
 
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
   while (1)
   {
-
+    // for (unsigned int i=0; i<10000; i++){
+    //   __HAL_TIM_SET_COMPARE(&htim1, TIM_CHANNEL_1, i);
+    //   __HAL_TIM_SET_COMPARE(&htim1, TIM_CHANNEL_2, i);
+    //   __HAL_TIM_SET_COMPARE(&htim1, TIM_CHANNEL_3, i);
+    //   HAL_Delay(1);
+    // }
+    // for (unsigned int i=10000; i>0; i--){
+    //   __HAL_TIM_SET_COMPARE(&htim1, TIM_CHANNEL_1, i);
+    //   __HAL_TIM_SET_COMPARE(&htim1, TIM_CHANNEL_2, i);
+    //   __HAL_TIM_SET_COMPARE(&htim1, TIM_CHANNEL_3, i);
+    //   HAL_Delay(1);
+    // }
     
 
     /* USER CODE END WHILE */
@@ -135,6 +148,7 @@ void SystemClock_Config(void)
   {
     Error_Handler();
   }
+
   /** Initializes the CPU, AHB and APB buses clocks
   */
   RCC_ClkInitStruct.ClockType = RCC_CLOCKTYPE_HCLK|RCC_CLOCKTYPE_SYSCLK
@@ -185,5 +199,3 @@ void assert_failed(uint8_t *file, uint32_t line)
   /* USER CODE END 6 */
 }
 #endif /* USE_FULL_ASSERT */
-
-/************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/

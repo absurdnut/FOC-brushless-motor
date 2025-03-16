@@ -58,10 +58,15 @@ void Error_Handler(void);
 /* USER CODE END EFP */
 
 /* Private defines -----------------------------------------------------------*/
+#define LL_Pin GPIO_PIN_13
+#define LL_GPIO_Port GPIOB
+#define HH_Pin GPIO_PIN_8
+#define HH_GPIO_Port GPIOA
 #define LED_1_Pin GPIO_PIN_2
 #define LED_1_GPIO_Port GPIOD
 #define EN_GATE_1_Pin GPIO_PIN_8
 #define EN_GATE_1_GPIO_Port GPIOB
+
 /* USER CODE BEGIN Private defines */
 
 /* USER CODE END Private defines */
@@ -71,5 +76,3 @@ void Error_Handler(void);
 #endif
 
 #endif /* __MAIN_H */
-
-/************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/

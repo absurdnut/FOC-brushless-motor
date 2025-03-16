@@ -1,0 +1,9 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "files.associations": {
+        "stdint.h": "c",
+        "as5600.h": "c",
+        "compare": "c"
+    }
+}

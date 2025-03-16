@@ -1,0 +1,30 @@
+[
+  {
+    "arguments": [
+      "/home/guopyran/software/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/arm-none-eabi-gcc",
+      "-c",
+      "-mcpu=cortex-m3",
+      "-mthumb",
+      "-DUSE_HAL_DRIVER",
+      "-DSTM32F103xE",
+      "-IInc",
+      "-IDrivers/STM32F1xx_HAL_Driver/Inc",
+      "-IDrivers/STM32F1xx_HAL_Driver/Inc/Legacy",
+      "-IDrivers/CMSIS/Device/ST/STM32F1xx/Include",
+      "-IDrivers/CMSIS/Include",
+      "-Og",
+      "-Wall",
+      "-fdata-sections",
+      "-ffunction-sections",
+      "-g",
+      "-gdwarf-2",
+      "-Wa,-a,-ad,-alms=build/main.lst",
+      "-o",
+      "build/main.o",
+      "Src/main.c"
+    ],
+    "directory": "/home/guopyran/development/projects/FOC-brushless-motor/firmware/FOC_pro",
+    "file": "/home/guopyran/development/projects/FOC-brushless-motor/firmware/FOC_pro/Src/main.c",
+    "output": "/home/guopyran/development/projects/FOC-brushless-motor/firmware/FOC_pro/build/main.o"
+  }
+]
