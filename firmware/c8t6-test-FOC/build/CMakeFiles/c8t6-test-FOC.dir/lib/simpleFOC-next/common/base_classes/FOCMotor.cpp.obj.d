@@ -1,0 +1,29 @@
+CMakeFiles/c8t6-test-FOC.dir/lib/simpleFOC-next/common/base_classes/FOCMotor.cpp.obj: \
+ /home/guopyran/development/projects/FOC-brushless-motor/firmware/c8t6-test-FOC/lib/simpleFOC-next/common/base_classes/FOCMotor.cpp \
+ /home/guopyran/development/projects/FOC-brushless-motor/firmware/c8t6-test-FOC/lib/simpleFOC-next/common/base_classes/FOCMotor.h \
+ /home/guopyran/development/projects/FOC-brushless-motor/firmware/c8t6-test-FOC/lib/simpleFOC-next/common/base_classes/Sensor.hpp \
+ /home/guopyran/software/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/arm-none-eabi/include/inttypes.h \
+ /home/guopyran/software/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/arm-none-eabi/include/newlib.h \
+ /home/guopyran/software/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/arm-none-eabi/include/_newlib_version.h \
+ /home/guopyran/software/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/arm-none-eabi/include/sys/config.h \
+ /home/guopyran/software/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/arm-none-eabi/include/machine/ieeefp.h \
+ /home/guopyran/software/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/arm-none-eabi/include/sys/features.h \
+ /home/guopyran/software/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/arm-none-eabi/include/sys/_intsup.h \
+ /home/guopyran/software/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/arm-none-eabi/include/_ansi.h \
+ /home/guopyran/software/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/lib/gcc/arm-none-eabi/14.2.1/include/stdint.h \
+ /home/guopyran/software/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/arm-none-eabi/include/stdint.h \
+ /home/guopyran/software/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/arm-none-eabi/include/machine/_default_types.h \
+ /home/guopyran/software/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/arm-none-eabi/include/sys/_stdint.h \
+ /home/guopyran/software/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
+ /home/guopyran/software/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/arm-none-eabi/include/sys/_locale.h \
+ /home/guopyran/development/projects/FOC-brushless-motor/firmware/c8t6-test-FOC/lib/simpleFOC-next/common/base_classes/CurrentSense.h \
+ /home/guopyran/development/projects/FOC-brushless-motor/firmware/c8t6-test-FOC/lib/simpleFOC-next/common/base_classes/FOCDriver.h \
+ /home/guopyran/development/projects/FOC-brushless-motor/firmware/c8t6-test-FOC/lib/simpleFOC-next/common/base_classes/../foc_utils.hpp \
+ /home/guopyran/development/projects/FOC-brushless-motor/firmware/c8t6-test-FOC/lib/simpleFOC-next/common/base_classes/../time_utils.h \
+ /home/guopyran/development/projects/FOC-brushless-motor/firmware/c8t6-test-FOC/lib/simpleFOC-next/common/base_classes/../foc_utils.hpp \
+ /home/guopyran/development/projects/FOC-brushless-motor/firmware/c8t6-test-FOC/lib/simpleFOC-next/common/base_classes/StepperDriver.h \
+ /home/guopyran/development/projects/FOC-brushless-motor/firmware/c8t6-test-FOC/lib/simpleFOC-next/common/base_classes/BLDCDriver.hpp \
+ /home/guopyran/development/projects/FOC-brushless-motor/firmware/c8t6-test-FOC/lib/simpleFOC-next/common/base_classes/../defaults.h \
+ /home/guopyran/development/projects/FOC-brushless-motor/firmware/c8t6-test-FOC/lib/simpleFOC-next/common/base_classes/../pid.h \
+ /home/guopyran/development/projects/FOC-brushless-motor/firmware/c8t6-test-FOC/lib/simpleFOC-next/common/base_classes/../time_utils.h \
+ /home/guopyran/development/projects/FOC-brushless-motor/firmware/c8t6-test-FOC/lib/simpleFOC-next/common/base_classes/../lowpass_filter.h

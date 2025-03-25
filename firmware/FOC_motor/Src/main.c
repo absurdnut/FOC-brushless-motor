@@ -19,6 +19,7 @@
 /* USER CODE END Header */
 /* Includes ------------------------------------------------------------------*/
 #include "main.h"
+#include "stm32f1xx_hal.h"
 #include "tim.h"
 #include "gpio.h"
 
@@ -117,7 +118,7 @@ int main(void)
     //   HAL_Delay(1);
     // }
     
-
+    HAL_Delay(1000);
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */

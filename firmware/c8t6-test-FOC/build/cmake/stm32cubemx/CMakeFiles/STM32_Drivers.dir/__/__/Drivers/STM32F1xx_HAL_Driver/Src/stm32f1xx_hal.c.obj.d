@@ -1,0 +1,35 @@
+cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj: \
+ /home/guopyran/development/projects/FOC-brushless-motor/firmware/c8t6-test-FOC/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c \
+ /home/guopyran/development/projects/FOC-brushless-motor/firmware/c8t6-test-FOC/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h \
+ /home/guopyran/development/projects/FOC-brushless-motor/firmware/c8t6-test-FOC/Inc/stm32f1xx_hal_conf.h \
+ /home/guopyran/development/projects/FOC-brushless-motor/firmware/c8t6-test-FOC/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h \
+ /home/guopyran/development/projects/FOC-brushless-motor/firmware/c8t6-test-FOC/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h \
+ /home/guopyran/development/projects/FOC-brushless-motor/firmware/c8t6-test-FOC/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h \
+ /home/guopyran/development/projects/FOC-brushless-motor/firmware/c8t6-test-FOC/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h \
+ /home/guopyran/development/projects/FOC-brushless-motor/firmware/c8t6-test-FOC/Drivers/CMSIS/Include/core_cm3.h \
+ /home/guopyran/software/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/lib/gcc/arm-none-eabi/14.2.1/include/stdint.h \
+ /home/guopyran/software/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/arm-none-eabi/include/stdint.h \
+ /home/guopyran/software/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/arm-none-eabi/include/machine/_default_types.h \
+ /home/guopyran/software/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/arm-none-eabi/include/sys/features.h \
+ /home/guopyran/software/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/arm-none-eabi/include/_newlib_version.h \
+ /home/guopyran/software/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/arm-none-eabi/include/sys/_intsup.h \
+ /home/guopyran/software/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/arm-none-eabi/include/sys/_stdint.h \
+ /home/guopyran/development/projects/FOC-brushless-motor/firmware/c8t6-test-FOC/Drivers/CMSIS/Include/cmsis_version.h \
+ /home/guopyran/development/projects/FOC-brushless-motor/firmware/c8t6-test-FOC/Drivers/CMSIS/Include/cmsis_compiler.h \
+ /home/guopyran/development/projects/FOC-brushless-motor/firmware/c8t6-test-FOC/Drivers/CMSIS/Include/cmsis_gcc.h \
+ /home/guopyran/development/projects/FOC-brushless-motor/firmware/c8t6-test-FOC/Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h \
+ /home/guopyran/development/projects/FOC-brushless-motor/firmware/c8t6-test-FOC/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h \
+ /home/guopyran/software/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
+ /home/guopyran/development/projects/FOC-brushless-motor/firmware/c8t6-test-FOC/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h \
+ /home/guopyran/development/projects/FOC-brushless-motor/firmware/c8t6-test-FOC/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h \
+ /home/guopyran/development/projects/FOC-brushless-motor/firmware/c8t6-test-FOC/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h \
+ /home/guopyran/development/projects/FOC-brushless-motor/firmware/c8t6-test-FOC/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_exti.h \
+ /home/guopyran/development/projects/FOC-brushless-motor/firmware/c8t6-test-FOC/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h \
+ /home/guopyran/development/projects/FOC-brushless-motor/firmware/c8t6-test-FOC/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h \
+ /home/guopyran/development/projects/FOC-brushless-motor/firmware/c8t6-test-FOC/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h \
+ /home/guopyran/development/projects/FOC-brushless-motor/firmware/c8t6-test-FOC/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h \
+ /home/guopyran/development/projects/FOC-brushless-motor/firmware/c8t6-test-FOC/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h \
+ /home/guopyran/development/projects/FOC-brushless-motor/firmware/c8t6-test-FOC/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h \
+ /home/guopyran/development/projects/FOC-brushless-motor/firmware/c8t6-test-FOC/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim.h \
+ /home/guopyran/development/projects/FOC-brushless-motor/firmware/c8t6-test-FOC/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim_ex.h \
+ /home/guopyran/development/projects/FOC-brushless-motor/firmware/c8t6-test-FOC/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h

@@ -1,0 +1,2 @@
+CMakeFiles/c8t6-test-FOC.dir/startup_stm32f103xb.s.obj: \
+ /home/guopyran/development/projects/FOC-brushless-motor/firmware/c8t6-test-FOC/startup_stm32f103xb.s

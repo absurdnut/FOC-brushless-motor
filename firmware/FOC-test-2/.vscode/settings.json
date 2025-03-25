@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "simplefoc.h": "c",
+        "bldcmotor.h": "c",
+        "sensor.h": "c",
+        "focdriver.h": "c",
+        "magneticsensorspi.h": "c",
+        "magneticsensori2c.h": "c"
+    }
+}
