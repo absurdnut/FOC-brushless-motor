@@ -1,0 +1,2 @@
+CMakeFiles/rct6-test-FOC.dir/startup_stm32f103xe.s.obj: \
+ /home/guopyran/development/projects/FOC-brushless-motor/firmware/rct6-test-FOC/startup_stm32f103xe.s

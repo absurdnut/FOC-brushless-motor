@@ -4,6 +4,9 @@
     "files.associations": {
         "stdint.h": "c",
         "as5600.h": "c",
-        "compare": "c"
+        "compare": "c",
+        "gpio.h": "c",
+        "tim.h": "c",
+        "main.h": "c"
     }
 }

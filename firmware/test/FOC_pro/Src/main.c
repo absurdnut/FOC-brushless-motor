@@ -102,20 +102,23 @@ int main(void)
   while (1)
   {
     
-    for (unsigned int i = 0; i < 10000; i++)
-    {
-      __HAL_TIM_SetCompare(&htim1, TIM_CHANNEL_1, i);
-      __HAL_TIM_SetCompare(&htim1, TIM_CHANNEL_2, i);
-      __HAL_TIM_SetCompare(&htim1, TIM_CHANNEL_3, i);
-      HAL_Delay(1);
-    }
-    for (unsigned int i = 10000; i > 0; i--)
-    {
-      __HAL_TIM_SetCompare(&htim1, TIM_CHANNEL_1, i);
-      __HAL_TIM_SetCompare(&htim1, TIM_CHANNEL_2, i);
-      __HAL_TIM_SetCompare(&htim1, TIM_CHANNEL_3, i);
-      HAL_Delay(1);
-    }
+    // for (unsigned int i = 0; i < 10000; i++)
+    // {
+    //   // __HAL_TIM_SetCompare(&htim1, TIM_CHANNEL_1, i);
+    //   // __HAL_TIM_SetCompare(&htim1, TIM_CHANNEL_2, i);
+    //   // __HAL_TIM_SetCompare(&htim1, TIM_CHANNEL_3, i);
+    //   HAL_Delay(1);
+    // }
+    // for (unsigned int i = 10000; i > 0; i--)
+    // {
+    //   __HAL_TIM_SetCompare(&htim1, TIM_CHANNEL_1, i);
+    //   __HAL_TIM_SetCompare(&htim1, TIM_CHANNEL_2, i);
+    //   __HAL_TIM_SetCompare(&htim1, TIM_CHANNEL_3, i);
+    //   HAL_Delay(1);
+    // }
+    __HAL_TIM_SetCompare(&htim1, TIM_CHANNEL_1, 10000);
+    __HAL_TIM_SetCompare(&htim1, TIM_CHANNEL_3, 10000);
+
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
